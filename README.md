@@ -1,0 +1,1 @@
+I have started doing my doing the foudnation courses of the odin project. This is my first project where I will make a recipe website for certain kinds of food
